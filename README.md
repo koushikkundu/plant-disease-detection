@@ -36,7 +36,7 @@ streamlit run main.py
 Access it at `http://localhost:8501`.
 
 ## Model
-The model is saved as `trained_plant_disease_model.keras` and predicts various plant diseases.
+The model is saved as `plant_disease_detection_model.keras` and predicts various plant diseases.
 
 ## Class Labels
 The model can identify multiple plant diseases, including:
