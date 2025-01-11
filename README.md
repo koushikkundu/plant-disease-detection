@@ -20,7 +20,6 @@ Hello, my name is Koushik Kundu. I am pleased to share that I was selected for t
 ### Clone the Repository
 ```bash
 git clone https://github.com/koushikkundu/plant-disease-detection.git
-cd plant_disease_detection
 ```
 
 ### Install Dependencies
